@@ -1,11 +1,11 @@
-# 📊 Análisis de Rendimiento de Tiendas
+# Análisis de Rendimiento de Tiendas
 
 Este proyecto analiza el rendimiento de **cuatro tiendas** del Sr. Juan utilizando **Python**, **Pandas** y **Matplotlib** en Google Colab.  
 El objetivo es determinar qué tienda presenta el menor desempeño general para considerar su venta.
 
 ---
 
-## 🚀 Características del proyecto
+## Características del proyecto
 - Cálculo de **ingresos totales** por tienda.
 - Análisis de **categorías de productos** más y menos vendidas.
 - Evaluación de **calificaciones promedio de clientes**.
@@ -16,14 +16,16 @@ El objetivo es determinar qué tienda presenta el menor desempeño general para 
 
 ---
 
-## 📂 Estructura del repositorio
+## Estructura del repositorio
+
 ├── ChallengeAluraStore.ipynb
+
 └── README.md
 
 
 ---
 
-## 📦 Requisitos y dependencias
+## Requisitos y dependencias
 
 El proyecto se ejecuta en **Google Colab**, por lo que no requiere instalación local.  
 Si quieres ejecutarlo localmente, necesitarás instalar las siguientes librerías:
@@ -31,7 +33,7 @@ Si quieres ejecutarlo localmente, necesitarás instalar las siguientes librería
 ```bash
 pip install pandas matplotlib
 
-## 🔗 Conexión con los datos
+## Conexión con los datos
 
 Los datos se obtienen directamente desde un repositorio en GitHub mediante enlaces CSV:
 
